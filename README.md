@@ -9,7 +9,7 @@ It requires a **valid** Treehouse account in order to have a token. **This token
 
 First go to the page of the course you want to extract videos from and copy the "iTunes Feed" link.
 
-`python treehouse.py **<paste the that link here>**`
+`python treehouse.py <paste the that link here>`
 
 Ex:
 `python treehouse.py itpc://teamtreehouse.com/library/wordpress-theme-development.rss?feed_token=<token>`
