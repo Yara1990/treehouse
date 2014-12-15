@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# unix shell required
 
 import string
 import sys
