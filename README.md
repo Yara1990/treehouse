@@ -1,7 +1,7 @@
 treehouse
 =========
 
-## Python parser for downloading videos from treehouse. ##
+## Python scraper for downloading videos from treehouse. ##
 
 **Dependencies**: *nix shell, python & curl
 
