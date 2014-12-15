@@ -3,7 +3,7 @@ treehouse
 
 ## Python parser for downloading videos from treehouse. ##
 
-**Dependencies**: python & curl
+**Dependencies**: *nix shell, python & curl
 
 It requires a **valid** Treehouse account in order to have a token. **This token is unique for every user**
 
